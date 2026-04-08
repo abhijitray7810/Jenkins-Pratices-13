@@ -1,4 +1,3 @@
-# Jenkins-Pratices-13
 # ⚙️ Jenkins Practice Series
 
 This repository contains a structured, day-by-day learning path for mastering **Jenkins**, one of the most popular tools for **CI/CD (Continuous Integration and Continuous Deployment)**.
