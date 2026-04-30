@@ -10,7 +10,7 @@ This document outlines the complete setup for automating the deployment of the N
 
 ```
 Developer Push → Gitea Repository → Jenkins Webhook Trigger → Auto Deploy → Storage Server → App Servers (via NFS)
-```
+``` 
 
 ### Components:
 - **Jenkins Server**: CI/CD automation platform
