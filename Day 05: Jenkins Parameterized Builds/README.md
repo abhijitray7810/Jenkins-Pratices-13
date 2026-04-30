@@ -9,7 +9,7 @@ This guide documents the process of creating a simple parameterized Jenkins job 
   - Username: `admin`
   - Password: `Adm!n321`
 
-## Task Requirements
+## Task Requirements 
 
 ### Job Configuration
 Create a parameterized Jenkins job with the following specifications:
