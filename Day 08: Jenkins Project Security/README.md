@@ -1,6 +1,6 @@
  # Jenkins Job Permissions Setup Guide
 
-## Objective 
+## Objective
 Grant specific permissions to developers `sam` and `rohan` to access the existing `Packages` job in Jenkins.
 
 ## Prerequisites
