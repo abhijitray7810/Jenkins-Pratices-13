@@ -52,7 +52,7 @@ This repository helps you:
 * Implement secure and scalable Jenkins environments
 
 ---
-
+ 
 ## ▶️ Getting Started
 
 1. Clone the repository:
