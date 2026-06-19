@@ -49,7 +49,7 @@ This repository helps you:
 * Work with plugins and job configurations
 * Build and manage CI/CD pipelines
 * Automate deployments
-* Implement secure and scalable Jenkins environments
+* Implement secure and scalable Jenkins environments 
 
 ---
  
