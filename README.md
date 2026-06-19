@@ -91,7 +91,7 @@ Contributions are welcome! You can:
 
 ---
 
-## 📌 Author
+## 📌 Author 
 
 **Abhijit Ray**
 
