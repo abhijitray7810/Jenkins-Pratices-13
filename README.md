@@ -45,7 +45,7 @@ Each folder represents a practical task designed to build real-world DevOps skil
 
 This repository helps you:
 
-* Understand Jenkins architecture and setup
+* Understand Jenkins architecture and setup 
 * Work with plugins and job configurations
 * Build and manage CI/CD pipelines
 * Automate deployments
