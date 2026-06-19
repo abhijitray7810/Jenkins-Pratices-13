@@ -16,7 +16,7 @@ Each folder represents a practical task designed to build real-world DevOps skil
 * **Day 04**: Configure Job for Package Installation  
 * **Day 05**: Parameterized Builds 
 * **Day 06**: Database Backup Job 
-
+ 
 ### 🔹 Intermediate Concepts 
 
 * **Day 07**: Jenkins Slave Nodes (Distributed Builds)
