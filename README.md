@@ -8,7 +8,7 @@ Each folder represents a practical task designed to build real-world DevOps skil
 
 ## 📚 Contents
  
-### 🔹 Jenkins Fundamentals
+### 🔹 Jenkins Fundamentals 
 
 * **Day 01**: Set Up Jenkins Server
 * **Day 02**: Install Jenkins Plugins
