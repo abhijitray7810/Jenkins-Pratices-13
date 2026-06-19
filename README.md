@@ -5,7 +5,7 @@ This repository contains a structured, day-by-day learning path for mastering **
 Each folder represents a practical task designed to build real-world DevOps skills using Jenkins. 
 
 ---
-
+ 
 ## 📚 Contents 
   
 ### 🔹 Jenkins Fundamentals 
