@@ -6,7 +6,7 @@ Each folder represents a practical task designed to build real-world DevOps skil
 
 ---
 
-## 📚 Contents
+## 📚 Contents 
  
 ### 🔹 Jenkins Fundamentals 
  
